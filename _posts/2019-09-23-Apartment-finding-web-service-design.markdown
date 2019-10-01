@@ -16,7 +16,10 @@ author: Ruben Gutierrez
 
 ![web design of apartment finding service realtor adobe xd free download mobile version](assets\img\blog-images\19-september\apartment-finding-web-app-serice-design-free-adobe-xd-mobile-design.jpg  "Apartment Finding Website Application Design Mobile Responsive")
 
-## Free For Commercial Use
+### Description
+A Free Adobe Xd Website Template for an Apartment Finding Web Service.  The mockups comes both with the desktop and mobile designs.
+
+### Free For Commercial Use
 Please link my website when using this template for any reason [ruben-gz.com](https://www.ruben-gz.com)
 
 
