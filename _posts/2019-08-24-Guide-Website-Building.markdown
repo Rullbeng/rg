@@ -9,6 +9,8 @@ author: Ruben Gutierrez
 
 ![image of google ads taking kidney cartoon](assets\img\blog-images\19-september\taking-kidney-google-ads.jpg "Google Ads Kidney Cartoon")
 
+### Why should I learn to make a website?
+
 Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the process of making a website can be a great skill to learn if you’re interested in making money online or creating & expanding an audience of people interested in your craft.
 
 
