@@ -9,6 +9,15 @@ author: Ruben Gutierrez
 
 ![image of google ads taking kidney cartoon](assets\img\blog-images\19-september\taking-kidney-google-ads.jpg "Google Ads Kidney Cartoon")
 
+1. [Collecting Information About The Purpose and Goals of Your Website](#step-1-collecting-information-about-the-purpose-and-goals-of-your-website)
+2. [Site Map / Website Foundation](#step-2-site-map--website-foundation)
+3. [Wire Framing / Website Mockup](#step-3-wire-framing--website-mockup)
+4. [Creating Content For Your Website](#step-4-creating-content-for-your-website)
+5. [Final Design](#step-5-final-design)
+6. [Website Development / Coding](#step-6-website-development--coding)
+7. [Deployment Checklist](#step-7-deployment-checklist)
+8. [Maintenance](#step-8-maintenance)
+
 ### Why should I learn to make a website?
 
 Making a website can seem a little intimidating if you’ve never had to make one before, but I’m here to tell you it doesn’t have to be so hard.  Familiarizing yourself with the process of making a website can be a great skill to learn if you’re interested in making money online or creating & expanding an audience of people interested in your craft.
