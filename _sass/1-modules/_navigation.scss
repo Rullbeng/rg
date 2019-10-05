@@ -131,6 +131,8 @@ nav {
                 display: flex;
                 align-items: center;
 
+                &:visited {color:#424242;}
+
                 svg {
                     height: 18px !important;
                     width: auto;
@@ -166,7 +168,10 @@ nav {
                     font-size: 16px;
                     font-weight: normal;
                     margin: 0 .6em;
-                    font-family: 'Crimson Text', serif;        
+                    font-family: 'Crimson Text', serif;  
+                    
+                    &:visited {color:#424242;}
+      
 
                     &:hover {
                         border-bottom: 2px solid #074866;
