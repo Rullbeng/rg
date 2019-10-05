@@ -19,6 +19,7 @@ I’ve gotten significantly better at putting together a website mock-up. When I
 
 My designs have a lot more thought into them now. One way I’ve improved is by becoming more familiar with element spacing, taking advantage of it can help you  convey a message while keeping a reader fascinated with the structure of the content. I read an interesting article from [Mark Boulton](https://alistapart.com/article/whitespace/) that explains “white space” or “negative space” in depth, it  helped things click for me.  I found his explanation on  “passive white space” and the effect it can have on the reader's attention very useful. By spacing out your written content you can prevent content from looking cramped essentially making it easier and more enjoyable to read.  I’ve applied “passive white space” in the call-to-action and throughout the design in this mock-up.
 
+I'd also like to thank [Generated Photos](https://generated.photos) for providing amazing AI generated faces of people to use in the "Meet the Team" section of this mock up.
 
 ### Free For Commercial Use with Credit
 
